@@ -1,7 +1,3 @@
-## 👨‍💻 Bruno Bevilaqua
-
-**`Economista`**
-
 Me chamo Bruno Bovo Bevilaqua, tenho 21 anos. Atualmente, estou cursando Economia.
  
 </div>
