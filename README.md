@@ -1,5 +1,5 @@
 
-Economista interessado em análise de dados.
+Economist interested in data analysis.
 
 ---
 <div style="display: inline_block"><br>
