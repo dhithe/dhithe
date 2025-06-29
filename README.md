@@ -1,4 +1,4 @@
-Me chamo Bruno Bovo Bevilaqua, tenho 21 anos. Atualmente, estou cursando Economia.
+Economist interested in data analysis.
  
 </div>
 <a href="https://www.linkedin.com/in/bruno-bevilaqua/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
